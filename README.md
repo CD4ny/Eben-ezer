@@ -1,2 +1,2 @@
 # Eben-ezer
-Programing course
+Programing course challenge accepted 
